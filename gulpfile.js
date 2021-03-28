@@ -1,3 +1,4 @@
+var replace = require('gulp-string-replace');
 const { src, dest } = require('gulp');
 let keysToReplace = 
 {
@@ -8,6 +9,7 @@ let keysToReplace =
 
 function replace_files_by_dict(cb){
   return src('src/*.json')
+  .pipe(replace("grape", "Muscat"))
   .pipe(dest('output/'));
   cb();
 }

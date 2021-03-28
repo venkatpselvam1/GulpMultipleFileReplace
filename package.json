@@ -27,5 +27,8 @@
   "homepage": "https://github.com/venkatpselvam1/GulpMultipleFileReplace#readme",
   "devDependencies": {
     "gulp": "^4.0.2"
+  },
+  "dependencies": {
+    "gulp-string-replace": "^1.1.2"
   }
 }
