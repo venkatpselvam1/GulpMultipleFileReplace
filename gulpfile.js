@@ -58,5 +58,5 @@ function multiple_replace_using_rxjs_subscribe_passes(cb){
 }
 
 exports.hardcoded_pipe = multiple_replace_using_hardcoded_pipe
-exports.failure_for_with_pip = multiple_replace_using_gulp_replace_fails
+exports.failure_for_with_pipe = multiple_replace_using_gulp_replace_fails
 exports.default = series(copyFiles, multiple_replace_using_rxjs_subscribe_passes)
