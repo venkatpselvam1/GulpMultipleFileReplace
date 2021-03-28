@@ -1,0 +1,28 @@
+{
+  "name": "gulpmultiplefilereplace",
+  "version": "1.0.0",
+  "description": " It demos how to use rxjs for multiple replace in for the given file or files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/venkatpselvam1/GulpMultipleFileReplace.git"
+  },
+  "keywords": [
+    "gulp",
+    "rxjs",
+    "multiple",
+    "replace",
+    "files",
+    "dest",
+    "src"
+  ],
+  "author": "venkatesan panneerselvam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/venkatpselvam1/GulpMultipleFileReplace/issues"
+  },
+  "homepage": "https://github.com/venkatpselvam1/GulpMultipleFileReplace#readme"
+}
