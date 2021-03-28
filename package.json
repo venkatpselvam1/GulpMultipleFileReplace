@@ -24,5 +24,8 @@
   "bugs": {
     "url": "https://github.com/venkatpselvam1/GulpMultipleFileReplace/issues"
   },
-  "homepage": "https://github.com/venkatpselvam1/GulpMultipleFileReplace#readme"
+  "homepage": "https://github.com/venkatpselvam1/GulpMultipleFileReplace#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
 }
